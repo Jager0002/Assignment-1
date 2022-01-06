@@ -10,10 +10,18 @@ body{
    text-align: center;
 }
 .decoration{
-   width: 40%;
+   width: 30%;
 }
 .decoration img{
-   width: 80%
+   width: 70%
+}
+.rest-pictures1{
+   width: 600px;
+}
+.rest-pictures2{
+   border-right: 0px;
+   padding-left: 100px;
+   width: 700px;
 }
 .decoration1{
    width: 40%;
@@ -22,12 +30,13 @@ body{
    margin-right: 5px;
    margin-left: 10px;
    padding-top: 10px;
+   padding-bottom: 40px;
    background-color: rgb(197, 187, 187);
    border-radius: 20px;
    font-display: flex;
 }
 .decoration1 img{
-   width: 50%;
+   width: 40%;
 }
 
 footer{
@@ -35,6 +44,7 @@ footer{
    margin-bottom: 0px;
 }
 .first-picture{
-   margin-left: 100px;
+   width: 500px;
+   margin-left: 200px;
    margin-bottom: 0px;
 }
