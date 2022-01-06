@@ -1,6 +1,11 @@
 body{
+   margin: 0px;
+}
+
+.body{
    margin: 100px 200px 0px 200px;
-   background-color: rgb(255, 254, 254);
+   background-color: rgb(255, 254, 254); 
+   text-align: justify; 
 }
 .flexible-container{
    display:flex;
@@ -31,7 +36,13 @@ body{
    width: 600px;
 }
 #passage-2{
+   padding-top: 100px;
    padding-left: 200px;
+   width: 40%;
+}
+#passage-3{
+   padding-top: 100px;
+   padding-left: 00px;
    width: 40%;
 }
 
@@ -71,10 +82,7 @@ body{
 .decoration3 img{
    width: 40%;
 }
-footer{
-   text-align: center;
-   margin-bottom: 0px;
-}
+
 .first-picture{
    width: 500px;
    margin-left: 200px;
@@ -96,4 +104,14 @@ footer{
 }
 .last-passage{
    padding-top: 100px;
+}
+
+footer{
+   background-color: black;
+   color: white;
+   text-align: center;
+   margin-bottom: 0px;
+}
+#red-2022{
+   color:rgba(255, 0, 0, 0.685);
 }
