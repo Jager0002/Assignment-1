@@ -1,5 +1,5 @@
 body{
-   margin: 60px 80px 0px 80px;
+   margin: 100px 200px 0px 200px;
    background-color: rgb(255, 254, 254);
 }
 .flexible-container{
@@ -10,36 +10,67 @@ body{
    margin-top: 100px;
    text-align: center;
 }
+.mission-2022{
+   color: rgb(219, 156, 21);
+}
 .decoration{
-   width: 80%;
+   width: 40%;
 }
 .decoration img{
-   width: 80%
+   width: 90%
+}
+#picture-1{
+   padding-left: 200px;
 }
 .rest-pictures1{
    width: 600px;
 }
 .rest-pictures2{
    border-right: 0px;
-   padding-left: 100px;
-   width: 700px;
+   padding-left: 400px;
+   width: 600px;
 }
-.decoration1{
+#passage-2{
+   padding-left: 200px;
    width: 40%;
-   padding-left: 10px;
+}
+
+.decoration1{
+   width: 40%;   
+   margin: 10px 10px 10px 10px;
    border: 20px 20px 20px 20px;
-   margin-right: 5px;
-   margin-left: 10px;
-   padding-top: 10px;
-   padding-bottom: 40px;
-   background-color: rgb(197, 187, 187);
+   padding: 10px 20px 40px 20px;
+   background-color: rgba(9, 64, 218, 0.137);
    border-radius: 20px;
    font-display: flex;
 }
 .decoration1 img{
    width: 40%;
 }
-
+.decoration2{
+   width: 40%;   
+   margin: 10px 10px 10px 10px;
+   border: 20px 20px 20px 20px;
+   padding: 10px 20px 40px 20px;
+   background-color: rgba(190, 31, 10, 0.158);
+   border-radius: 20px;
+   font-display: flex;
+}
+.decoration2 img{
+   width: 40%;
+}
+.decoration3{
+   width: 40%;
+   margin: 10px 10px 10px 10px;
+   border: 20px 20px 20px 20px;
+   padding: 10px 20px 40px 20px;
+   background-color: rgba(171, 201, 3, 0.356);
+   border-radius: 20px;
+   font-display: flex;
+}
+.decoration3 img{
+   width: 40%;
+}
 footer{
    text-align: center;
    margin-bottom: 0px;
@@ -51,7 +82,7 @@ footer{
 }
 .link-button{
    text-decoration: none;
-   background-color: rgb(155, 87, 87);
+   background-color: rgba(187, 51, 51, 0.788);
    padding: 10px 10px;
    color: white;
    font-weight: 700;
@@ -62,4 +93,7 @@ footer{
    border-left: 2px solid;
    border-color: tomato;
    padding-left: 5px;
+}
+.last-passage{
+   padding-top: 100px;
 }
