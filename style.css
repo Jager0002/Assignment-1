@@ -28,10 +28,11 @@ body{
    padding-left: 200px;
 }
 .rest-pictures1{
+   padding-top: 100px;
    width: 600px;
 }
 .rest-pictures2{
-   border-right: 0px;
+   padding-top: 100px;
    padding-left: 400px;
    width: 600px;
 }
@@ -79,7 +80,7 @@ body{
    border-radius: 20px;
    font-display: flex;
 }
-.decoration3 img{
+.decoration3 img{   
    width: 40%;
 }
 
@@ -103,7 +104,7 @@ body{
    padding-left: 5px;
 }
 .last-passage{
-   padding-top: 100px;
+   padding-top: 0px;
 }
 
 footer{
