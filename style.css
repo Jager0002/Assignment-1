@@ -1,5 +1,6 @@
 body{
    margin: 60px 80px 0px 80px;
+   background-color: rgb(255, 254, 254);
 }
 .flexible-container{
    display:flex;
@@ -10,10 +11,10 @@ body{
    text-align: center;
 }
 .decoration{
-   width: 30%;
+   width: 80%;
 }
 .decoration img{
-   width: 70%
+   width: 80%
 }
 .rest-pictures1{
    width: 600px;
@@ -26,7 +27,7 @@ body{
 .decoration1{
    width: 40%;
    padding-left: 10px;
-   border: 10px 10px 10px 10px;
+   border: 20px 20px 20px 20px;
    margin-right: 5px;
    margin-left: 10px;
    padding-top: 10px;
@@ -47,4 +48,18 @@ footer{
    width: 500px;
    margin-left: 200px;
    margin-bottom: 0px;
+}
+.link-button{
+   text-decoration: none;
+   background-color: rgb(155, 87, 87);
+   padding: 10px 10px;
+   color: white;
+   font-weight: 700;
+   border-radius: 5px;
+}
+
+#border-left{
+   border-left: 2px solid;
+   border-color: tomato;
+   padding-left: 5px;
 }
