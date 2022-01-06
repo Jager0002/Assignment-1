@@ -1,0 +1,7 @@
+body{
+   margin: 100px;
+}
+section{
+   display:flex;
+   padding-bottom: 10px;
+}
